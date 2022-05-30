@@ -16,4 +16,4 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 ## Comandos em R
 
 
-## Graficos em R
+## Gráficos em R
