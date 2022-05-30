@@ -2,7 +2,7 @@
  
 Antes de começar vou compartir algumas das aulas que ministrei na pós de FMU.
 
-As aulas estaão relacionadas com o software **R**
+As aulas estão relacionadas com o software **R**
 
 ---
 
