@@ -12,8 +12,13 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 
 * O Softwre R: Um pouquinho de historia e Instalação do software **R** e do **R-Studio**,que é uma ferramenta muito util para quem quer usar o **R**   
 * Comandos Básicos do **R**
+* gráficos simples em **R**
 
-## Comandos em R
+### Comandos em R
 
 
-## Gráficos em R
+### Gráficos em R
+
+O primeiro script corresponde a um gráfico de disperssão (o mais simples)
+
+## Análise de Dados
