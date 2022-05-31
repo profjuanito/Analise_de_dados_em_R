@@ -17,3 +17,5 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 
 
 ## Gráficos em R
+
+O primeiro script corresponde a um gráfico de disperssão (o mais simples)  
