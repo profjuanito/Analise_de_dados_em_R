@@ -29,7 +29,7 @@ No diretorio programas_simples tem uma lista de alungs gráficos feitos em lingu
 * grafico_normal_aleatorio_completo.R ->
 * grafico binormal.R ->
 * matrix_de correlacao ->
-* mapa.R
+* mapa.R  ->
 * mapa_relevo.R ->  
 
 ## Análise de Dados
