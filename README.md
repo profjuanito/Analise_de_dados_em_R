@@ -18,7 +18,7 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 
 No diretorio comandas tem varios scripts onde se ilustram alguns comandos desde os masi simples ate alguns mais complicados
 
-* comandos_basicos.R
+* comandos_basicos.R ->
 * 
 
 ### Gráficos em R
