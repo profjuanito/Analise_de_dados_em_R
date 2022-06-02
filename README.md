@@ -23,8 +23,10 @@ No diretorio programas_simples tem uma lista de alungs gráficos feitos em lingu
 
 * grafico_simples.R  -> O primeiro script corresponde a um gráfico de disperssão (o mais simples)
 * ajuste linear.R -> gráfico de dispersão de dados de excel fazendo um ajuste linear
+* 
    dados: alunos.xlsx   
 * ajuste limear nomalidade.R -> gráfico de dispersão de dados em arquivos .txt  fazendo ajuste e teste de normalidade 
+* 
    dados: dados1.txt
 * ajuste linear e estatistica ->
 * grafico binomial_normal.R ->
