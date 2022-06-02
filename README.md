@@ -16,10 +16,14 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 
 ### Comandos em R
 
+No diretorio comandas tem varios scripts onde se ilustram alguns comandos desde os masi simples ate alguns mais complicados
+
+* comandos_basicos.R
+* 
 
 ### Gráficos em R
 
-No diretorio programas_simples tem uma lista de alungs gráficos feitos em linguagen **R**
+No diretorio programas_simples tem uma lista de alguns script para fazer gráficos, todos em linguagem **R**
 
 * grafico_simples.R  -> O primeiro script corresponde a um gráfico de disperssão (o mais simples)
 * ajuste linear.R -> gráfico de dispersão de dados de excel fazendo um ajuste linear\\
