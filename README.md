@@ -19,7 +19,7 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 
 ### Gráficos em R
 
-Lista de alungs gráficos feitos em linguagen **R**
+No diretorio programas_simples tem uma lista de alungs gráficos feitos em linguagen **R**
 
 * grafico_simples.R  -> O primeiro script corresponde a um gráfico de disperssão (o mais simples)
 * ajuste_linear.R ->
