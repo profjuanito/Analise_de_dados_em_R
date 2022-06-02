@@ -22,9 +22,10 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 No diretorio programas_simples tem uma lista de alungs gráficos feitos em linguagen **R**
 
 * grafico_simples.R  -> O primeiro script corresponde a um gráfico de disperssão (o mais simples)
-* ajuste linear.R -> grafico de dispersão com ajuste linear
-  ** dados: alunos.xlsx   
-* ajuste limear nomalidade.R ->
+* ajuste linear.R -> gráfico de dispersão de dados de excel fazendo um ajuste linear
+   dados: alunos.xlsx   
+* ajuste limear nomalidade.R -> gráfico de dispersão de dados em arquivos .txt  fazendo ajuste e teste de normalidade 
+   dados: dados1.txt
 * ajuste linear e estatistica ->
 * grafico binomial_normal.R ->
 * grafico_normal_aleatorio_completo.R ->
