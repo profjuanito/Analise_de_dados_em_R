@@ -22,18 +22,16 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 No diretorio programas_simples tem uma lista de alungs gráficos feitos em linguagen **R**
 
 * grafico_simples.R  -> O primeiro script corresponde a um gráfico de disperssão (o mais simples)
-* ajuste linear.R -> gráfico de dispersão de dados de excel fazendo um ajuste linear
-* 
-   dados: alunos.xlsx   
-* ajuste limear nomalidade.R -> gráfico de dispersão de dados em arquivos .txt  fazendo ajuste e teste de normalidade 
-* 
-   dados: dados1.txt
-* ajuste linear e estatistica ->
-* grafico binomial_normal.R ->
-* grafico_normal_aleatorio_completo.R ->
-* grafico binormal.R ->
-* matrix_de correlacao ->
-* mapa.R  ->
-* mapa_relevo.R ->  
+* ajuste linear.R -> gráfico de dispersão de dados de excel fazendo um ajuste linear\\
+  dados: alunos.xlsx   
+* ajuste limear nomalidade.R -> gráfico de dispersão de dados em arquivos .txt  fazendo ajuste e teste de normalidade\\
+  dados: dados1.txt
+* ajuste linear e estatistica -> gráfico de dispersão de dados em arquivos .txt  fazendo ajuste um teste estatístico\\
+* grafico binomial_normal.R -> gráfica uma distribuição binomial normal
+* grafico_normal_aleatorio_completo.R -> gráfico de uma distribuição normal
+* grafico binormal.R -> gráfico de uma distribuição binormal
+* matrix_de correlacao -> primeiro gráfico da correlação entre variaveis 
+* mapa.R  -> gráfico de mapas de relevo que usa uma função (meu mapa) que esta em outro programa(mapa_relevo.R)
+* mapa_relevo.R -> script conde esta guardada uma função (meu_mapa) que pode ser chamada por um outro programa    
 
 ## Análise de Dados
