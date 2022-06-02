@@ -22,5 +22,14 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 Lista de alungs gráficos feitos em linguagen **R**
 
 * grafico_simples.R  -> O primeiro script corresponde a um gráfico de disperssão (o mais simples)
+* ajuste_linear.R ->
+* ajuste_limear nomalidade.R ->
+* ajuste linear e estatistica ->
+* grafico binomial_normal.R ->
+* grafico_normal_aleatorio_completo.R ->
+* grafico binormal.R ->
+* matrix_de correlacao ->
+* mapa.R
+* mapa_relevo.R ->  
 
 ## Análise de Dados
