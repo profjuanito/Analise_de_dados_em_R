@@ -18,6 +18,7 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 
 No diretorio comandas tem varios scripts onde se ilustram alguns comandos desde os masi simples ate alguns mais complicados
 
+* Introducao ao software R -> Aula ministrada na FMU, onde mostro alguns comandos básicos para iniciantes na linguagem **R**   
 * comandos_basicos.R ->
 * 
 
