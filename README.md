@@ -26,10 +26,19 @@ No diretorio comandas tem varios scripts onde se ilustram alguns comandos desde 
 No diretorio programas_simples tem uma lista de alguns script para fazer gráficos, todos em linguagem **R**
 
 1. grafico_simples.R -> O primeiro script corresponde a um gráfico de disperssão (o mais simples)
+<<<<<<< HEAD
 1. grafico binomial_normal.R -> gráfica uma distribuição binomial normal.
 1. grafico_normal_aleatorio_completo.R -> gráfico de uma distribuição normal.
 1. grafico binormal.R -> gráfico de uma distribuição binormal.
 1. mapa.R  -> gráfico de mapas de relevo que usa uma função (meu mapa) que esta em outro programa(mapa_relevo.R)
+=======
+5. grafico binomial_normal.R -> gráfica uma distribuição binomial normal.
+6. grafico_normal_aleatorio_completo.R -> gráfico de uma distribuição normal.
+7. grafico binormal.R -> gráfico de uma distribuição binormal.
+8. matriz de correlacao -> primeiro gráfico da correlação entre variaveis.
+    1. dados: ind_sicio_econ.xlsx
+10. mapa.R  -> gráfico de mapas de relevo que usa uma função (meu mapa) que esta em outro programa(mapa_relevo.R)
+>>>>>>> 075604b10b7f9fbaeacc40f0916e1c435269fb05
     1. mapa_relevo.R -> script conde esta guardada uma função (meu_mapa) que pode ser chamada por um outro programa.
     2. dados: 
 
