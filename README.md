@@ -29,7 +29,7 @@ No diretorio programas_simples tem uma lista de alguns script para fazer gráfic
 5. grafico binomial_normal.R -> gráfica uma distribuição binomial normal.
 6. grafico_normal_aleatorio_completo.R -> gráfico de uma distribuição normal.
 7. grafico binormal.R -> gráfico de uma distribuição binormal.
-8. matrix_de correlacao -> primeiro gráfico da correlação entre variaveis.
+8. matriz de correlacao -> primeiro gráfico da correlação entre variaveis.
     1. dados: ind_sicio_econ.xlsx
 10. mapa.R  -> gráfico de mapas de relevo que usa uma função (meu mapa) que esta em outro programa(mapa_relevo.R)
     1. mapa_relevo.R -> script conde esta guardada uma função (meu_mapa) que pode ser chamada por um outro programa.
