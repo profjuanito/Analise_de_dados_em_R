@@ -26,12 +26,6 @@ No diretorio comandas tem varios scripts onde se ilustram alguns comandos desde 
 No diretorio programas_simples tem uma lista de alguns script para fazer gráficos, todos em linguagem **R**
 
 1. grafico_simples.R -> O primeiro script corresponde a um gráfico de disperssão (o mais simples)
-2. ajuste linear.R -> gráfico de dispersão de dados de excel fazendo um ajuste linear.
-    1. dados: alunos.xlsx   
-3. ajuste limear nomalidade.R -> gráfico de dispersão de dados em arquivos .txt  fazendo ajuste e teste de normalidade.
-    1. dados: dados1.txt
-4. ajuste linear e estatistica -> gráfico de dispersão de dados em arquivos .txt  fazendo ajuste um teste estatístico.
-    1. dados: dados1.txt
 5. grafico binomial_normal.R -> gráfica uma distribuição binomial normal.
 6. grafico_normal_aleatorio_completo.R -> gráfico de uma distribuição normal.
 7. grafico binormal.R -> gráfico de uma distribuição binormal.
