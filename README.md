@@ -8,7 +8,7 @@ As aulas estão relacionadas com o software **R**
 
 ## Iniciantes em R
 
-Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
+Para quem esta começando ou ainda não conhece eu disponibilizei 2 aulas:
 
 * O Softwre R: Um pouquinho de historia e Instalação do software **R** e do **R-Studio**,que é uma ferramenta muito util para quem quer usar o **R**   
 * Comandos Básicos do **R**
@@ -16,7 +16,7 @@ Para quem esta começando ou ainda nao conhece eu disponibilizei 2 aulas:
 
 ### Comandos em R
 
-No diretorio comandas tem varios scripts onde se ilustram alguns comandos desde os masi simples ate alguns mais complicados
+No diretorio comandos tem varios scripts onde se ilustram alguns comandos desde os mais simples até alguns mais complicados.
 
 * Introducao ao software R -> Aula ministrada na FMU, onde mostro alguns comandos básicos para iniciantes na linguagem **R**   
 * comandos_basicos.R ->
@@ -36,7 +36,7 @@ No diretorio programas_simples tem uma lista de alguns script para fazer gráfic
 
 ## Análise de Dados
 
-O programa R tem uma serie de ferramentas (bibliotecas) muito úteis na hora de fazer uma análise de dados. Muitos dizem que é mais complicado, como comentario pessoal diría que, mais difícil é pensar o que fazer, fazer a análise estaística e obter as conclusões. Tanto aqui como em phyton os comandos sao bem parecidoe e tem uma mesma lógica, o dominio dos comandos vem só com o tempo. Por tanto podemos considerar que o **Programa R** é útil na hora de fazer analise de dados.
+O programa R tem uma serie de ferramentas (bibliotecas) muito úteis na hora de fazer uma análise de dados. Muitos dizem que é mais complicado, como comentario pessoal diría que, mais difícil é pensar o que fazer, fazer a análise estaística e obter as conclusões. Tanto aqui como em phyton os comandos são bem parecidos e tem uma mesma lógica, o dominio dos comandos vem só com o tempo. Por tanto podemos considerar que o **Programa R** é útil na hora de fazer análise de dados.
 
 Vou listar os programas feitos com esse intuito:
 
