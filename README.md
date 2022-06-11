@@ -19,8 +19,11 @@ Para quem esta começando ou ainda não conhece eu disponibilizei 2 aulas:
 No diretorio comandos tem varios scripts onde se ilustram alguns comandos desde os mais simples até alguns mais complicados.
 
 * Introducao ao software R -> Aula ministrada na FMU, onde mostro alguns comandos básicos para iniciantes na linguagem **R**   
-* comandos_basicos.R ->
-* 
+* Comandos_basicos_1.R -> Operadores, scripts e bibliotecas
+* Comandos_basicos_2.R -> Vetores e matrizes
+* Comandos_basicos_3.R -> Criação de gráficos
+* Comandos_estatistica.R -> Comandos para fazer uma análise estatísticabasica
+* Comandos_intermedio1.R -> Comandos para trabalhar com DataFrame
 
 ### Gráficos em R
 
