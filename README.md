@@ -35,7 +35,7 @@ No diretorio programas_simples tem uma lista de alguns script para fazer gráfic
 1. grafico binormal.R -> gráfico de uma distribuição binormal.
 1. mapa.R  -> gráfico de mapas de relevo que usa uma função (meu mapa) que esta em outro programa(mapa_relevo.R)
     1. mapa_relevo.R -> script conde esta guardada uma função (meu_mapa) que pode ser chamada por um outro programa.
-    2. dados: Dados necesario para a criacao dos mapas. 
+    2. dados: Dados necesario para a criação dos mapas. 
 
 ## Análise de Dados
 
