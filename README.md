@@ -12,7 +12,7 @@ Para quem esta começando ou ainda não conhece eu disponibilizei 2 aulas:
 
 * O Softwre R: Um pouquinho de historia e Instalação do software **R** e do **R-Studio**, que é uma ferramenta muito util para quem quer usar o **R**   
 * Comandos Básicos do **R** Conjunto de script com comandos básicos para trabalhar com R
-* Gráficos simples em **R** Script para poder fazer gráficosestatisticos
+* Gráficos simples em **R** Script para poder fazer gráficos estatisticos.
 
 ### Comandos em R
 
